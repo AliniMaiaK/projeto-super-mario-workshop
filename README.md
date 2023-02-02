@@ -3,8 +3,7 @@
 Projeto do curso semana do Programador DevemDobro🚀🚀🚀
 
 
-😎 Objetivo do projeto: Uma página mostrando o trailer do filme super Mario quando o usuário 
-clicar no botão de trailer.
+😎 Objetivo do projeto: Uma página mostrando o trailer do filme ao clicar no botão de trailer, ele abrirá uma janela mostrando a gravação do trailer, e após pode clicar no x para fechar a janela.
 
 
 🎈 Resultado do projeto
